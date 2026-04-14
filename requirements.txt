@@ -1,0 +1,9 @@
+pandas
+openai
+python-dotenv
+requests
+beautifulsoup4
+selenium
+matplotlib
+seaborn
+wordcloud
