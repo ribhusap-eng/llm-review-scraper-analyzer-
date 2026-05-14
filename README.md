@@ -1,4 +1,4 @@
-## AI Engineer Intern Assignment 2: LLM Review Scraper & Analyzer
+Steam Review Scraper & Analyzer
 
 ## Project Overview
 This project is an end-to-end Python application that scrapes customer reviews from a public product page, preprocesses the collected text, and uses an OpenAI-compatible Large Language Model (LLM) to generate structured insights such as sentiment and concise summaries.
